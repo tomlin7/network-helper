@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.log.*
+*-backup.json
+runtime.json
+.venv/
+# Machine-specific diagnostics/repair are not part of the portable proxy.
+Repair-EthernetDns.*
+Restore-EthernetDns.cmd
